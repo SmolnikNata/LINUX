@@ -6,3 +6,5 @@ Filesystem                Size      Used Available Use% Mounted on
    2 df -h / >> /home/task3/file.txt
    3 history | tail -n 5 >> /home/task3/file.txt
  AuthenticX86
+
+history
